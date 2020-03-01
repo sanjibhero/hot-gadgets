@@ -1,0 +1,13 @@
+.container{
+    width: 700px;
+}
+.header1{
+    widht: 25px;
+    height: 25px;
+}
+.buy-now-button{
+    background-image: rgb(156, 20, 219);
+    color: rgb(22, 114, 49);
+    border-radius: 15px;
+    padding: 10px;
+}
